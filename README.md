@@ -41,6 +41,13 @@ https://themeselection.com/item/sneat-dashboard-free-bootstrap/
 
 # 프로젝트
 
+구성
+
+![image](https://github.com/HanSuChan/DMS_Backup/assets/83399952/46f9b9ae-e042-4a34-a782-0e01c560a275)
+![image](https://github.com/HanSuChan/DMS_Backup/assets/83399952/993e404e-a986-4549-bcc9-974c9d84d0a2)
+
+기능 사진들
+
 ![image](https://github.com/HanSuChan/DMS_Backup/assets/83399952/57447ebb-9ce0-4740-adbe-d3604f7c69c7)
 ![image](https://github.com/HanSuChan/DMS_Backup/assets/83399952/5cd8ad87-9fa0-4779-903f-dc9f41d9753e)
 ![image](https://github.com/HanSuChan/DMS_Backup/assets/83399952/0b0763c1-ff32-45f0-90ae-3b9b8622ab2c)
