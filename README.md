@@ -55,5 +55,9 @@ https://themeselection.com/item/sneat-dashboard-free-bootstrap/
 # 아쉬웠던 점
 
 기간의 한계로 서킷 브레이커를 적용하여 회복 패턴을 구현하지 못했다.
+
 분산 DB 트랜잭션 처리를 하지 않았다.
-세션을 Oracle 테이블로 뗌빵식으로 구현하였다.
+
+세션을 Oracle 테이블로 땜빵식으로 구현하였다.
+
+비동기 처리가 미숙하여 렌더링이 완벽하지 않았다.
