@@ -55,16 +55,3 @@ https://themeselection.com/item/sneat-dashboard-free-bootstrap/
 ![image](https://github.com/HanSuChan/DMS_Backup/assets/83399952/3c52d8b0-0c09-479f-aa72-2641765f116d)
 ![image](https://github.com/HanSuChan/DMS_Backup/assets/83399952/741a95c1-6ec2-4f07-9621-7f1d3624f603)
 ![image](https://github.com/HanSuChan/DMS_Backup/assets/83399952/df087470-aeef-471d-bb2f-67fd7540b715)
-
-
-
-
-# 아쉬웠던 점
-
-기간의 한계로 서킷 브레이커를 적용하여 회복 패턴을 구현하지 못했다.
-
-분산 DB 트랜잭션 처리를 하지 않았다.
-
-세션을 Oracle 테이블로 땜빵식으로 구현하였다.
-
-비동기 처리가 미숙하여 렌더링이 완벽하지 않았다.
